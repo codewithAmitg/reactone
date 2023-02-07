@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./components/Home";
 import Contact from "./components/Contact"
 import Services from "./components/Services"
+import Exe3 from "./components/counter"
 import "./styles/App.scss";
 import "./styles/Header.scss";
 import "./styles/footer.scss";
