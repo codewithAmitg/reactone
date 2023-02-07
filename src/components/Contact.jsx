@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/contact.scss";
-
+import Exe3 from "./components/counter"
 const Contact = () => {
   return (
     <div className="contact">
@@ -29,6 +29,7 @@ const Contact = () => {
           <button type="submit">Send</button>
         </form>
       </main>
+    <Exe3 />
     </div>
   );
 };
