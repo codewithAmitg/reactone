@@ -6,7 +6,7 @@ import {HashLink} from "react-router-hash-link";
 const Header = () => {
   return (
     <nav>
-        <h1>TechStar.</h1>
+        <h1>Amitg.</h1>
         <main>
             <Link to={"/"}>Home</Link>
             <Link to={"/contact"}>Contact</Link>
